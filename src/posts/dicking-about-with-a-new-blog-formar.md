@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Dicking about with a new blog formar
+title: Dicking about with a new blog formart
 date: 2019-07-28T16:35:54.642Z
 tags:
   - new
