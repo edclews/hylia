@@ -5,4 +5,4 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-I am back to writing some blather on t'internet.
+This is my blog where I shove the bits that don't fit in my [illustration](https://edclews.com) or [photography](https://www.edclewsphoto.co.uk) sites.
