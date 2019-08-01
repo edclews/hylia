@@ -4,10 +4,6 @@
       "text": "Home",
       "url": "/",
       "external": false
-    },
-    {
-      "text": "About",
-      "url": "/about/"
     }
   ]
 }
