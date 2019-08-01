@@ -6,14 +6,8 @@
       "external": false
     },
     {
-      "text": "Illustration ->",
-      "url": "https://edclews.com",
-      "external": true
-    },
-    {
-      "text": "Photos ->",
-      "url": "https://www.edclewsphoto.co.uk",
-      "external": true
+      "text": "About",
+      "url": "/about/"
     }
   ]
 }
