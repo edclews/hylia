@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Linda McCartney photography retrospective in Glasgow
 metaTitle: Linda McCartney photography retrospective in Glasgow
-socialImage: /images/linda-mccartney-retrospective-kelvingrove-paul-mccartney-scotland.jpg
+socialImage: /images/linda-mccartney-retrospective.jpg
 date: 2020-01-05T20:18:42.005Z
 tags:
   - experiences
