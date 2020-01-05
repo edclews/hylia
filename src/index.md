@@ -1,6 +1,10 @@
 ---
 layout: home
 title: Endless drivel
+metaTitle: Endless drivel - a blog by Ed Clews
+metaDesc: >-
+  Endless drivel is a blog by Ed Clews for shoving the bits in that don't fit
+  elsewhere.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
