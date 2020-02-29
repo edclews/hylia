@@ -10,6 +10,8 @@ tags:
   - magazines
   - reading
 ---
+
+
 **Some latest loot I've picked up from the magazine shops over the last few months.**
 
 First up, I went to the Haarlem branch of the [Athineum Niuewscentrum](https://www.athenaeum.nl/winkels/haarlem/) whilst over there visiting family. I picked up the excellent Eaten and The Dutch Dickensian.
@@ -76,8 +78,14 @@ Get Counter print here - [https://www.counter-print.co.uk/products/from-japan](h
 
 ## Lost In Seoul
 
-
+![Lost In Seoul cover](images/lost-in-seoul-magazine.jpg)
 
 Finally, food and culture (but mostly food) from the Seoul edition of the Lost In series. There's quite a few of these knocking about and they have their own app as well. Just enough to give you a tase - I'm not sure how it compares to the others as I've just read the one but this one is nice enough and I'll pick up some more when I get a chance.
 
 Lost In can be bought here - <https://lostin.com/>
+
+![Lost in Seoul spread](images/lost-in-seoul-magazine-pages-2.jpg)
+
+![Lost in Seoul spread](images/lost-in-seoul-magazine-pages.jpg)
+
+![Lost In Seoul spread](images/lost-in-seoul-magazine-pages-3.jpg)
