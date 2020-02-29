@@ -56,13 +56,27 @@ Buy Fare here - <https://www.faremag.com/>
 
 ## **From series by Counter Print**
 
-
+![From Japan cover by Counter Print](images/from-japan-magazine.jpg)
 
 These I picked up in [the fancy magazine shop down one of the arcades in Leeds](https://villagebooks.co/). Each goes into a different country or region and explores design and agencies from that area. It's interesting to see how much of the countries culture and language goes into the design and much leans more into fashion of the time. I found the From Japan one to be the best of the series so far. I think Japanese lettering lends itself much better to design than other written languages do due to it shape and the influence of [mon design](https://en.wikipedia.org/wiki/Mon_(emblem)) in branding.
 
 Get Counter print here - [https://www.counter-print.co.uk/products/from-japan](https://www.counter-print.co.uk/products/from-japan?_pos=2&_sid=6726452c2&_ss=r)
 
+![From Japan magazine spread](images/from-japan-magazine-spread-2.jpg)
+
+![From Eastern Europe magazine spread](images/from-eastern-europe-magazine-spread.jpg)
+
+![From Japan magazine spread](images/from-japan-magazine-spread-3.jpg)
+
+![From Japan magazine spread](images/from-japan-magazine-spread-4.jpg)
+
+![From Latin America spread](images/from-latin-america-spread-la-rifa.jpg)
+
+![From Latin America spread](images/from-latin-america-spread-rosa.jpg)
+
 ## Lost In Seoul
+
+
 
 Finally, food and culture (but mostly food) from the Seoul edition of the Lost In series. There's quite a few of these knocking about and they have their own app as well. Just enough to give you a tase - I'm not sure how it compares to the others as I've just read the one but this one is nice enough and I'll pick up some more when I get a chance.
 
