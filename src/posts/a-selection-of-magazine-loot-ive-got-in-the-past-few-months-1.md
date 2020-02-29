@@ -14,9 +14,9 @@ tags:
 
 First up, I went to the Haarlem branch of the [Athineum Niuewscentrum](https://www.athenaeum.nl/winkels/haarlem/) whilst over there visiting family. I picked up the excellent Eaten and The Dutch Dickensian.
 
-![Eaten magazine](images/eaten-magazine.jpg)
-
 ## Eaten magazine
+
+![Eaten magazine](images/eaten-magazine.jpg)
 
 Eaten is chock full of really interesting things you wouldn't usually think about in food history. There's an in depth look at meat fluid and where Bovril came from, the origins of the Harvey Wallbanger, the Maine Lobster Wars and a write up on agriculture by Cato The Elder (the Jay Rayner of his day). Plus tons of art and photographs.
 
@@ -30,17 +30,17 @@ You can get Eaten here - <https://www.eatenmagazine.com/>
 
 ![Eaten magazine - pickles](images/eaten-magazine-pickles.jpg)
 
-![Dutch Dickensian cover](images/the-dutch-dickensian-magazine.jpg)
+## Dutch Dickenisan
 
-## Dutch Dickensian
+![Dutch Dickensian cover](images/the-dutch-dickensian-magazine.jpg)
 
 The second mag I got is called The Dutch Dickensian which I've not really dug into so far but a quick flick through reveals titles on Mesmerism, Phrenology, Bloodletting and the intriguing Dickens Personal View on Spontaneous Human Combustion. 80% of it is in English and the rest is in Dutch. It's not as glamorous compared to the others I've picked up but it's obviously a labour of love.
 
 Dutch Dickensian is here - <http://www.dickensfellowship.nl/index.html> - you might want to email them directly for a copy unless you happen to be hanging about in Haarlem for some reason.
 
-![Fare magazine - Georgia cover](images/fare-magazine-georgia-edition.jpg)
-
 ## Fare magazine
+
+![Fare magazine - Georgia cover](images/fare-magazine-georgia-edition.jpg)
 
 The newest edition of Fare ([which I've looked at previously here](https://endlessdrivel.co.uk/posts/fare-magazine-glasgow-issue/))[](https://endlessdrivel.co.uk/posts/fare-magazine-glasgow-issue/) covers Tbilisi in Georgia, which I've got a soft spot for as that's where we honeymooned. There's a striking image on the cover of a woman in traditional dress in front of the Georgian Chronicle. It's the only place I've been that reminds me of the Jedi Temples in the Jedi Knight games - lots of towering black figures depicting scenes from the Bible.
 
@@ -54,11 +54,9 @@ Buy Fare here - <https://www.faremag.com/>
 
 ![Fare Magazine Georgia with Pheasants' Tears](images/fare-magazine-georgia-edition-spread-pheasants-tears.jpg)
 
-
-
-\[From series picture]
-
 ## **From series by Counter Print**
+
+
 
 These I picked up in [the fancy magazine shop down one of the arcades in Leeds](https://villagebooks.co/). Each goes into a different country or region and explores design and agencies from that area. It's interesting to see how much of the countries culture and language goes into the design and much leans more into fashion of the time. I found the From Japan one to be the best of the series so far. I think Japanese lettering lends itself much better to design than other written languages do due to it shape and the influence of [mon design](https://en.wikipedia.org/wiki/Mon_(emblem)) in branding.
 
