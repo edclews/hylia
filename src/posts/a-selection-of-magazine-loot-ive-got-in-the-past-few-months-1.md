@@ -14,7 +14,7 @@ tags:
 
 **Some latest loot I've picked up from the magazine shops over the last few months.**
 
-First up, I went to the Haarlem branch of the [Athineum Niuewscentrum](https://www.athenaeum.nl/winkels/haarlem/) whilst over there visiting family. I picked up the excellent Eaten and The Dutch Dickensian.
+First up, I went to the Haarlem branch of the [Athenaeum Niuewscentrum](https://www.athenaeum.nl/winkels/haarlem/) whilst over there visiting family. I picked up the excellent Eaten and The Dutch Dickensian.
 
 ## Eaten magazine
 
