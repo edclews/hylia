@@ -14,8 +14,6 @@ tags:
 
 First up, I went to the Haarlem branch of the [Athineum Niuewscentrum](https://www.athenaeum.nl/winkels/haarlem/) whilst over there visiting family. I picked up the excellent Eaten and The Dutch Dickensian.
 
-
-
 ![Eaten magazine](images/eaten-magazine.jpg)
 
 ## Eaten magazine
@@ -26,7 +24,11 @@ As a side note, [I also found this documentary about Jewish deli's in America wh
 
 You can get Eaten here - <https://www.eatenmagazine.com/>
 
+![Eaten magazine japanese fisheries](images/eaten-magazine-fisheries-of-japan.jpg)
 
+![Eaten magazine - lobster wars](images/eaten-magazine-lobster-wars.jpg)
+
+![Eaten magazine - pickles](images/eaten-magazine-pickles.jpg)
 
 
 
