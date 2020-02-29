@@ -30,7 +30,7 @@ You can get Eaten here - <https://www.eatenmagazine.com/>
 
 ![Eaten magazine - pickles](images/eaten-magazine-pickles.jpg)
 
-
+![Dutch Dickensian cover](images/the-dutch-dickensian-magazine.jpg)
 
 ## Dutch Dickensian
 
