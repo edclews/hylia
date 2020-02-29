@@ -38,6 +38,8 @@ The second mag I got is called The Dutch Dickensian which I've not really dug in
 
 Dutch Dickensian is here - <http://www.dickensfellowship.nl/index.html> - you might want to email them directly for a copy unless you happen to be hanging about in Haarlem for some reason.
 
+![Fare magazine - Georgia cover](images/fare-magazine-georgia-edition.jpg)
+
 ## Fare magazine
 
 The newest edition of Fare ([which I've looked at previously here](https://endlessdrivel.co.uk/posts/fare-magazine-glasgow-issue/))[](https://endlessdrivel.co.uk/posts/fare-magazine-glasgow-issue/) covers Tbilisi in Georgia, which I've got a soft spot for as that's where we honeymooned. There's a striking image on the cover of a woman in traditional dress in front of the Georgian Chronicle. It's the only place I've been that reminds me of the Jedi Temples in the Jedi Knight games - lots of towering black figures depicting scenes from the Bible.
@@ -45,6 +47,14 @@ The newest edition of Fare ([which I've looked at previously here](https://endle
 Fare is slowly becoming one of my favourite magazines by the way it dives deep on an areas culture through photography and illustration, and it's very good at reflecting the character of the place. I found Georgia to be a very welcoming but conservative country that's kind of struggling with its place straddling the West and the East but doing it at the same time, and that comes across.
 
 Buy Fare here - <https://www.faremag.com/>
+
+![Fare Magazine Georgia spread](images/fare-magazine-georgia-edition-spread.jpg)
+
+![fare Magazine - Georgia edition with khachapuri](images/fare-magazine-georgia-edition-spread-khachapuri.jpg)
+
+![Fare Magazine Georgia with Pheasants' Tears](images/fare-magazine-georgia-edition-spread-pheasants-tears.jpg)
+
+
 
 \[From series picture]
 
