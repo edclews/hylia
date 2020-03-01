@@ -60,7 +60,7 @@ Buy Fare here - <https://www.faremag.com/>
 
 ![From Japan cover by Counter Print](/images/from-japan-magazine.jpg)
 
-These I picked up in [the fancy magazine shop down one of the arcades in Leeds](https://villagebooks.co/). Each goes into a different country or region and explores design and agencies from that area. It's interesting to see how much of the countries culture and language goes into the design and much leans more into fashion of the time. I found the From Japan one to be the best of the series so far. I think Japanese lettering lends itself much better to design than other written languages do due to it shape and the influence of [mon design](https://en.wikipedia.org/wiki/Mon_(emblem)) in branding.
+These I picked up in [the fancy magazine shop down one of the arcades in Leeds](https://villagebooks.co/). Each goes into a different country or region and explores design and agencies from that area. It's interesting to see how much of the countries culture and language goes into the design and much leans more into fashion of the time. I found the From Japan one to be the best of the series so far. I think Japanese lettering lends itself much better to design than other written languages do due to its shape and the influence of [mon design](https://en.wikipedia.org/wiki/Mon_(emblem)) in branding.
 
 Get Counter print here - [https://www.counter-print.co.uk/products/from-japan](https://www.counter-print.co.uk/products/from-japan?_pos=2&_sid=6726452c2&_ss=r)
 
