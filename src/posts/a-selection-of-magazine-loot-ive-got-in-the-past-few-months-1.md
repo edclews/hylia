@@ -80,7 +80,7 @@ Get Counter print here - [https://www.counter-print.co.uk/products/from-japan](h
 
 ![Lost In Seoul cover](/images/lost-in-seoul-magazine.jpg)
 
-Finally, food and culture (but mostly food) from the Seoul edition of the Lost In series. There's quite a few of these knocking about and they have their own app as well. Just enough to give you a tase - I'm not sure how it compares to the others as I've just read the one but this one is nice enough and I'll pick up some more when I get a chance.
+Finally, food and culture (but mostly food) from the Seoul edition of the Lost In series. There's quite a few of these knocking about and they have their own app as well. Just enough to give you a taste - I'm not sure how it compares to the others as I've just read the one but this one is nice enough and I'll pick up some more when I get a chance.
 
 Lost In can be bought here - <https://lostin.com/>
 
