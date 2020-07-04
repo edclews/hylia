@@ -6,11 +6,11 @@ metaDesc: Here are two films about modern isolation that will cheer you up
 socialImage: images/screenshot-from-thursday-by-matthias-hoegg.jpg
 date: 2020-07-04T10:44:26.307Z
 tags:
-  - films
+  - film
 ---
 Today is Super Saturday, when pubs are warily opening up after months of lockdown isolation and some sort of tenuous victory can be claimed.
 
-As an alternative here's two films that pair up nicely about modern isolation which have a sense of optimism about them.
+As an alternative here's two films that pair up nicely about modern isolation which have a sense of optimism and cheeriness about them.
 
 **The Solitary Life of Cranes by Eva Weber**
 
@@ -21,8 +21,6 @@ This is quite a daydreamy short film from ten years ago about 24 hours in the li
 There doesn't seem to be any way of buying it at the moment but the director has (either inadvertently or not) left the film semi accessible - [you can watch the whole thing here](https://vimeo.com/22830975/1145f481ad).
 
 \-
-
-
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/16962056?color=92c4e1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
