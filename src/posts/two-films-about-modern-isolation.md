@@ -14,7 +14,7 @@ As an alternative here's two films that pair up nicely about modern isolation wh
 
 **The Solitary Life of Cranes by Eva Weber**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/42429589?byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/42429589" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 This is quite a daydreamy short film from ten years ago about 24 hours in the life of crane operators in London. It's quite meditative and full of patterns that people see every day and can be taken for granted. You could probably write some lengthy piece about blah blah viewer/voyeur blah blah modern environment etc but I like it because it's very chill and a well put together film.
 
@@ -22,10 +22,9 @@ There doesn't seem to be any way of buying it at the moment but the director has
 
 \-
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/16962056?color=92c4e1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe src="https://player.vimeo.com/video/16962056?color=92c4e1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/16962056">Thursday</a> from <a href="https://vimeo.com/matthiashoegg">Matthias Hoegg</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 **Thursday by Matthias Hoegg**
-
-<https://vimeo.com/16962056>
 
 Similar to the Solitary Life of Cranes, this is another day in the life of people in a city story. I really love the animation style on this - it's stuffed full of patterns and rhythms. It's also very chill.
