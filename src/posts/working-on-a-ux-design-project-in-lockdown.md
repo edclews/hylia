@@ -1,13 +1,15 @@
 ---
 layout: layouts/post.njk
 title: Working on a UX design project in lockdown - part 1
-metaTitle: Working on a UX design project in lockdown
+metaTitle: Working on a UX design project in lockdown - part 1
 metaDesc: First part in a blog series on working on a UX project during lockdown
 date: 2020-07-15T07:59:45.383Z
 tags:
   - design
   - ux
 ---
+![Cycling in the Yorkshire Wolds](images/cycling-in-the-yorkshire-wolds.jpg)
+
 For the last few years I've had a project I've been wanting to get stuck into to do with cycling in York and I've recently had some time to finally get onto it properly.
 
 I have been slowly training on UX for the last year or two through reading and various courses to add another branch to my design skills. I've worked on aspects of UX before having worked in personas and shopper paths for ecommerce sites, designing interactive pdfs for onboarding and line managing websites but not something from soup to nuts. This is the project that I'm aiming to do the whole thing in and see what I get out of it.
