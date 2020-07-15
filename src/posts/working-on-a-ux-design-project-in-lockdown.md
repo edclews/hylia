@@ -8,7 +8,7 @@ tags:
   - design
   - ux
 ---
-![Cycling in the Yorkshire Wolds](images/cycling-in-the-yorkshire-wolds.jpg)
+![Cycling in the Yorkshire Wolds](/images/cycling-in-the-yorkshire-wolds.jpg)
 
 For the last few years I've had a project I've been wanting to get stuck into to do with cycling in York and I've recently had some time to finally get onto it properly.
 
@@ -57,7 +57,7 @@ I grouped all the comments on the empathy map from left to right with a general 
 
 ## Personas
 
-Next stage is personas. Handily Miro has a template already built in so I don't have to start from scratch. I can happily fill these in using the info from the people I interviewed them as I know them quite well and I've got quite an extensive amount of notes from the videos - [you can see the personas here](https://miro.com/app/board/o9J_kqob79g=/). [](https://miro.com/app/board/o9J_kqob79g=/)
+Next stage is personas. Handily Miro has a template already built in so I don't have to start from scratch. I can happily fill these in using the info from the people I interviewed them as I know them quite well and I've got quite an extensive amount of notes from the videos - [you can see the personas here](https://miro.com/app/board/o9J_kqob79g=/). 
 
 **Each persona has:**
 
