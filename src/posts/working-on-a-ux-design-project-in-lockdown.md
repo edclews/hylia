@@ -1,6 +1,8 @@
 ---
 layout: layouts/post.njk
-title: Working on a UX design project in lockdown
+title: Working on a UX design project in lockdown - part 1
+metaTitle: Working on a UX design project in lockdown
+metaDesc: First part in a blog series on working on a UX project during lockdown
 date: 2020-07-15T07:59:45.383Z
 tags:
   - design
