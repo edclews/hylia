@@ -8,7 +8,7 @@ tags:
   - design
   - ux
 ---
-![Cycling in the Yorkshire Wolds](images/cycling-in-the-yorkshire-wolds.jpg)
+![Cycling in the Yorkshire Wolds](/images/cycling-in-the-yorkshire-wolds.jpg)
 
 For the last few years I've had a project I've been wanting to get stuck into to do with cycling in York and I've recently had some time to finally get onto it properly.
 
