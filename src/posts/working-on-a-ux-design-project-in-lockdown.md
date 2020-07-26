@@ -35,7 +35,7 @@ My project is aimed at people wanting to go cycling in York. Seems simple enough
 * a lot of sites show starting locations that you'd actually need to drive for a few hours to get to and aren't shown in relation to somewhere else
 * they show the routes but not things you can see along the way
 
-My aim is that this site should help different types of riders find a ride that's got something for them and start and finish in York. Despite what the bellends on the York Press comments think, York is a pretty cycle friendly already with Sustrans routes and cycle paths through town. It's a small city surrounded by miles of pleasant countryside which has lost of different terrain and areas depending on what you want out of your ride.
+My aim is that this site should help different types of riders find a ride that's got something for them and start and finish in York. Despite what the bellends on the York Press comments think, York is a pretty cycle friendly already with Sustrans routes and cycle paths through town. It's a small city surrounded by miles of pleasant countryside which has lots of different terrain and areas depending on what you want out of your ride.
 
 ## Research
 
@@ -81,6 +81,6 @@ It's worth noting there's some groups I could have also covered: kid friendly / 
 
 ## The next bit
 
-This may be where it get's slightly trickier. The first couple of stages have been achievable remotely. The next stages of Ideation / Storyboarding / Paper Prototypes can be done solo but get LOADS more benefit from working in groups so I'll have to research into a workaround for that. At the time of writing (early July 2020), the UK is slowly coming out of lockdown so we'll see where peoples comfort levels in groups are and I might luckily get some heads together.
+This may be where it get's slightly trickier. The first couple of stages have been achievable remotely. The next stages of Ideation / Storyboarding / Paper Prototypes can be done solo but get LOADS more benefit from working in groups so I'll have to research into a workaround for that. At the time of writing (early July 2020), the UK is slowly coming out of lockdown so we'll see where people's comfort levels in groups are and I might luckily get some heads together.
 
 Comments? Email me at [ed@edclews.com](mailto:ed@edclews.com)
