@@ -17,8 +17,6 @@ You can get it from Strange Attractor http://strangeattractor.co.uk/shoppe/bass-
 
 ![George Evelyn in Bass Mids Tops](images/george-evelyn-in-bass-mids-tops.jpg)
 
-
-
 ## The Bitmap Brothers: Universe by Duncan Harris, designed by Darren Wall
 
 ![Bitmap Brothers Universe cover](images/bitmap-brothers-universe-cover.jpg)
@@ -47,18 +45,30 @@ You can get it here: https://readonlymemory.vg/shop/book/britsoft-an-oral-histor
 
 ![Peter Molyneux quote from Britsoft book](images/peter-molyneux-quote-from-britsoft-an-oral-history-book.jpg)
 
-
-
-
-
 ## House Industries: The process is the inspiration
 
-\[cover]
+![House Industries the process is the inspiration cover](images/house-industries-the-process-is-the-inspiration-book-cover.jpg)
 
 Speaking of investing in design, I picked up this House Industries retrospective book from Ebay for about £20. It's a really lavish production - nearly every page has some sort of spot colour or varnish on it and this plus the project detailing inside makes it come across as a real labour of love. This is another you can just pick up and pop into whenever.
 
+![House Industries - the process is the inspiration inner](images/house-industries-the-process-is-the-inspiration-book-inner.jpg)
+
+![House Industries - the process is the inspiration inner](images/house-industries-the-process-is-the-inspiration-book-inner-2.jpg)
+
+![House Industries - the process is the inspiration inner](images/house-industries-the-process-is-the-inspiration-book-inner-3.jpg)
+
 ## Andy: A factual fairytale by Typex
 
-\[cover]
+![Andy - a factual fairytale book cover](images/andy-a-factual-fairytale-by-typex-cover.jpg)
 
-Finally there's this excellent graphic novel about Andy Warhol. I first heard of this when the author was on a comics podcast a few years back. It's ten comics each covering a set of years in Warhol's life, each with their own styling even though by the same illustrator.
+Finally there's this excellent graphic novel about Andy Warhol. I first heard of this when the author was on a comics podcast a few years back. It's ten comics each covering a set of years in Warhol's life, each with their own styling even though by the same illustrator. I loved this one and blasted through it. There's lots of detail with a ridiculous cast of characters and plenty of things I never knew about Warhol. Sadly it doesn't have him dicking about on Amiga though.
+
+![Andy - a factual fairytale book inner](images/andy-a-factual-fairytale-by-typex-inner.jpg)
+
+
+
+![Andy - a factual fairytale book inner](images/andy-a-factual-fairytale-by-typex-inner-2.jpg)
+
+![Andy - a factual fairytale book inner](images/andy-a-factual-fairytale-by-typex-inner-3.jpg)
+
+![Andy - a factual fairytale book inner](images/andy-a-factual-fairytale-by-typex-inner-4.jpg)
