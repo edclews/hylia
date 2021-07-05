@@ -29,7 +29,7 @@ Sadly their website and Instagram pages don't seem to be working so they may hav
 
 My wife spotted this from miles away. She loves cheese, therefore I bought it. I've not got far in it so far but a good mix of illustration and photography in this one.
 
-Find them at https://www.thecheesemagazine.com/ and https://twitter.com/_thecheesemag
+Find them at [https://www.thecheesemagazine.com/](https://www.thecheesemagazine.com/)and [https://twitter.com/_thecheesemag](https://twitter.com/_thecheesemag)
 
 ![Cheese Magazine cover](/images/cheese-magazine.jpg)
 
@@ -45,7 +45,7 @@ Find them at https://www.thecheesemagazine.com/ and https://twitter.com/_thechee
 
 A bilingual visual culture magazine from Beirut - this magazine has definitely had the most attention from this batch. I've been doing the odd bit of typesetting in Arabic recently and I like seeing how different languages and alphabets work together in design. Safar's style fits this together well with a bright look that balances out writing that can be on quite intense subjects. Definitely a rebuy. 
 
-You can find them at https://www.journalsafar.com/
+You can find them at [https://www.journalsafar.com/](https://www.journalsafar.com/)
 
 ![Safe Magazine front English cover](/images/safar-magazine.jpg)
 
@@ -63,7 +63,7 @@ You can find them at https://www.journalsafar.com/
 
 A really nicely illustrated magazine about play. Printed in risograph which makes it feel light and fun, it's the frothiest of this bunch (meaning this in a nice way).
 
-Website: https://www.counterpointmag.co.uk/
+Website: [https://www.counterpointmag.co.uk/](https://www.counterpointmag.co.uk/)
 
 ![Counterpoint cover](/images/counterpoint-magazine.jpg)
 
@@ -79,7 +79,7 @@ Website: https://www.counterpointmag.co.uk/
 
 This is the one I've looked at least, it's about tea culture. Looks nice though.
 
-Website here: https://www.readeighty.com/
+Website here: [https://www.readeighty.com/](https://www.readeighty.com/)
 
 ![Eighty magazine cover](/images/eighty-magazine.jpg)
 
