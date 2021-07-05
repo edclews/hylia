@@ -33,7 +33,7 @@ Find them at https://www.thecheesemagazine.com/ and https://twitter.com/_thechee
 
 ![Cheese Magazine cover](/images/cheese-magazine.jpg)
 
-![Cheese Magazine spread 1](images/cheese-magazine-1.jpg)
+![Cheese Magazine spread 1](/images/cheese-magazine-1.jpg)
 
 ![Cheese Magazine spread 2](/images/cheese-magazine-3.jpg)
 
