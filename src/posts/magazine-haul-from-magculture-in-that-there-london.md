@@ -43,20 +43,50 @@ Find them at https://www.thecheesemagazine.com/ and https://twitter.com/_thechee
 
 ## Safar
 
-A bilingual visual culture magazine from Beirut - this magazine has definitely had the most attention from this batch. I like seeing how different languages and alphabets work together in design and Safar's style uses this really well, with a bright look that balances out writing that can be on quite intense subjects.  
+A bilingual visual culture magazine from Beirut - this magazine has definitely had the most attention from this batch. I've been doing the odd bit of typesetting in Arabic recently and I like seeing how different languages and alphabets work together in design. Safar's style fits this together well with a bright look that balances out writing that can be on quite intense subjects. Definitely a rebuy. 
 
 You can find them at https://www.journalsafar.com/
 
-\[pics]
+![Safe Magazine front English cover](images/safar-magazine.jpg)
+
+![Safe Magazine front Arabic cover](images/safar-magazine-1.jpg)
+
+![Safe Magazine spread 1](images/safar-magazine-2.jpg)
+
+![Safe Magazine spread 2](images/safar-magazine-3.jpg)
+
+![Safe Magazine spread 3](images/safar-magazine-4.jpg)
+
+![Safe Magazine spread 4](images/safar-magazine-5.jpg)
 
 ## Counterpoint
 
-A really nicely illustrated magazine about play. Printed in risograph which makes it feel light and fun.
+A really nicely illustrated magazine about play. Printed in risograph which makes it feel light and fun, it's the frothiest of this bunch (meaning this in a nice way).
 
 Website: https://www.counterpointmag.co.uk/
+
+![Counterpoint cover](images/counterpoint-magazine.jpg)
+
+![Counterpoint cover detail](images/counterpoint-magazine-1.jpg)
+
+![Counterpoint spread 1](images/counterpoint-magazine-2.jpg)
+
+![Counterpoint spread 2](images/counterpoint-magazine-7.jpg)
+
+![Counterpoint spread 3](images/counterpoint-magazine-8.jpg)
 
 ## Eighty
 
 This is the one I've looked at least, it's about tea culture. Looks nice though.
 
 Website here: https://www.readeighty.com/
+
+![Eighty magazine cover](images/eighty-magazine.jpg)
+
+![Eighty magazine quote](images/eighty-magazine-5.jpg)
+
+![Eighty magazine spread 1](images/eighty-magazine-2.jpg)
+
+![Eighty magazine spread 2](images/eighty-magazine-3.jpg)
+
+![Eighty magazine spread 3](images/eighty-magazine-4.jpg)
