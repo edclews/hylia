@@ -31,15 +31,15 @@ My wife spotted this from miles away. She loves cheese, therefore I bought it. I
 
 Find them at https://www.thecheesemagazine.com/ and https://twitter.com/_thecheesemag
 
-![Cheese Magazine cover](images/cheese-magazine.jpg)
+![Cheese Magazine cover](/images/cheese-magazine.jpg)
 
 ![Cheese Magazine spread 1](images/cheese-magazine-1.jpg)
 
-![Cheese Magazine spread 2](images/cheese-magazine-3.jpg)
+![Cheese Magazine spread 2](/images/cheese-magazine-3.jpg)
 
-![Cheese Magazine spread 3](images/cheese-magazine-4.jpg)
+![Cheese Magazine spread 3](/images/cheese-magazine-4.jpg)
 
-![Cheese Magazine spread 4](images/cheese-magazine-5.jpg)
+![Cheese Magazine spread 4](/images/cheese-magazine-5.jpg)
 
 ## Safar
 
@@ -47,17 +47,17 @@ A bilingual visual culture magazine from Beirut - this magazine has definitely h
 
 You can find them at https://www.journalsafar.com/
 
-![Safe Magazine front English cover](images/safar-magazine.jpg)
+![Safe Magazine front English cover](/images/safar-magazine.jpg)
 
-![Safe Magazine front Arabic cover](images/safar-magazine-1.jpg)
+![Safe Magazine front Arabic cover](/images/safar-magazine-1.jpg)
 
-![Safe Magazine spread 1](images/safar-magazine-2.jpg)
+![Safe Magazine spread 1](/images/safar-magazine-2.jpg)
 
-![Safe Magazine spread 2](images/safar-magazine-3.jpg)
+![Safe Magazine spread 2](/images/safar-magazine-3.jpg)
 
-![Safe Magazine spread 3](images/safar-magazine-4.jpg)
+![Safe Magazine spread 3](/images/safar-magazine-4.jpg)
 
-![Safe Magazine spread 4](images/safar-magazine-5.jpg)
+![Safe Magazine spread 4](/images/safar-magazine-5.jpg)
 
 ## Counterpoint
 
@@ -65,15 +65,15 @@ A really nicely illustrated magazine about play. Printed in risograph which make
 
 Website: https://www.counterpointmag.co.uk/
 
-![Counterpoint cover](images/counterpoint-magazine.jpg)
+![Counterpoint cover](/images/counterpoint-magazine.jpg)
 
-![Counterpoint cover detail](images/counterpoint-magazine-1.jpg)
+![Counterpoint cover detail](/images/counterpoint-magazine-1.jpg)
 
-![Counterpoint spread 1](images/counterpoint-magazine-2.jpg)
+![Counterpoint spread 1](/images/counterpoint-magazine-2.jpg)
 
-![Counterpoint spread 2](images/counterpoint-magazine-7.jpg)
+![Counterpoint spread 2](/images/counterpoint-magazine-7.jpg)
 
-![Counterpoint spread 3](images/counterpoint-magazine-8.jpg)
+![Counterpoint spread 3](/images/counterpoint-magazine-8.jpg)
 
 ## Eighty
 
@@ -81,12 +81,12 @@ This is the one I've looked at least, it's about tea culture. Looks nice though.
 
 Website here: https://www.readeighty.com/
 
-![Eighty magazine cover](images/eighty-magazine.jpg)
+![Eighty magazine cover](/images/eighty-magazine.jpg)
 
-![Eighty magazine quote](images/eighty-magazine-5.jpg)
+![Eighty magazine quote](/images/eighty-magazine-5.jpg)
 
-![Eighty magazine spread 1](images/eighty-magazine-2.jpg)
+![Eighty magazine spread 1](/images/eighty-magazine-2.jpg)
 
-![Eighty magazine spread 2](images/eighty-magazine-3.jpg)
+![Eighty magazine spread 2](/images/eighty-magazine-3.jpg)
 
-![Eighty magazine spread 3](images/eighty-magazine-4.jpg)
+![Eighty magazine spread 3](/images/eighty-magazine-4.jpg)
