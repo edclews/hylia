@@ -15,15 +15,15 @@ A high gloss travel cycling mag. This issue is mostly geared around around cycli
 
 Sadly their website and Instagram pages don't seem to be working so they may have gone under. 
 
-![Far Ride Magazine cover](images/far-ride-magazine.jpg)
+![Far Ride Magazine cover](/images/far-ride-magazine.jpg)
 
-![Far Ride Magazine spread 1](images/far-ride-magazine-2.jpg)
+![Far Ride Magazine spread 1](/images/far-ride-magazine-2.jpg)
 
-![Far Ride Magazine spread 2](images/far-ride-magazine-3.jpg)
+![Far Ride Magazine spread 2](/images/far-ride-magazine-3.jpg)
 
-![Far Ride Magazine spread 3](images/far-ride-magazine-4.jpg)
+![Far Ride Magazine spread 3](/images/far-ride-magazine-4.jpg)
 
-![Far Ride Magazine spread 4](images/far-ride-magazine-5.jpg)
+![Far Ride Magazine spread 4](/images/far-ride-magazine-5.jpg)
 
 ## Cheese
 
