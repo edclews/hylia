@@ -13,7 +13,7 @@ A recent trip down to that there London to get some culture in the V&A (chock fu
 
 A high gloss travel cycling mag. This issue is mostly geared around around cycling in places like Mexico City, Western Ukraine and Afghanistan. At first impression it did give the look of an overly inspirational travel mag like Suitcase but thankfully has more depth and thought it than that.
 
-Sadly their website and Instagram pages don't seem to be working so they may have gone under. 
+Sadly their website and Instagram pages don't seem to be working so they may have gone under. You can get the latest issue from [Rare Mags](https://raremags.co.uk/products/far-ride-volume-13)
 
 ![Far Ride Magazine cover](/images/far-ride-magazine.jpg)
 
